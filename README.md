@@ -9,8 +9,6 @@ Este é um projeto de um jogo de Jokenpô (Pedra, Papel e Tesoura) desenvolvido 
 
 ## 📱 Funcionalidades
 * Interface visual com placar.
-* Escolha de jogadas (Pedra, Papel e Tesoura).
-* Reinício de partida.
 
 ## 🛠️ Como rodar o projeto
 Como este é um projeto Expo, após clonar o repositório, você pode executar:
